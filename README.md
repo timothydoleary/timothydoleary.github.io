@@ -1,4 +1,4 @@
-# PlusOne Nerd
-Base code for www.plusonenerd.com
+# Timothy OLeary
+Base code for www.timothydoleary.com
 
 Under Maintenance
