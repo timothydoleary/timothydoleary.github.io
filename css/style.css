@@ -93,9 +93,18 @@ a:hover{
 	font-size:15px;
 	margin-bottom:3px;
 }
+
+#about_card .element .sec-name{
+	color:#212121;
+	font-size:14px;
+	margin-bottom:3px;
+	font-weight: bold;
+
+}
+
 #about_card .element .info{
 	color:#616161;
-	font-size:14px;
+	font-size:13px;
 }
 hr{
 	width:60%;
